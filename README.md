@@ -14,15 +14,15 @@ I pledge my honor that I have abided by the Stevens Honor System.
 - [x] Lesson 8
 - [x] Lesson 9
 - [x] Lesson 10
-### **Exersises**
--[ ] Exersise 1
--[ ] Exersise 2
--[ ] Exersise 3
--[ ] Exersise 4
--[ ] Exersise 5
--[ ] Exersise 6
--[ ] Exersise 7
--[ ] Exersise 8
--[ ] Exersise 9
--[ ] Exersise 10
--[ ] Exersise 11
+### **Exercises**
+- [ ] Exercise 1
+- [ ] Exercise 2
+- [ ] Exercise 3
+- [ ] Exercise 4
+- [ ] Exercise 5
+- [ ] Exercise 6
+- [ ] Exercise 7
+- [ ] Exercise 8
+- [ ] Exercise 9
+- [ ] Exercise 10
+- [ ] Exercise 11
