@@ -4,6 +4,7 @@ Github Repository for CPE-322 at Stevens Institute of Technology
 I pledge my honor that I have abided by the Stevens Honor System.
 
 ## **Lessons**
+___
 - [x] Lesson 1
 - [x] Lesson 2
 - [x] Lesson 3
@@ -15,6 +16,7 @@ I pledge my honor that I have abided by the Stevens Honor System.
 - [x] Lesson 9
 - [x] Lesson 10
 ### **Exercises**
+___
 - [ ] Exercise 1
 - [ ] Exercise 2
 - [ ] Exercise 3
