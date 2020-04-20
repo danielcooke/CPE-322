@@ -26,7 +26,3 @@ I pledge my honor that I have abided by the Stevens Honor System.
 - [ ] Exercise 9
 - [ ] Exercise 10
 - [ ] Exercise 11
-
-| Tables        | Are           |
-| ------------- |:-------------:|
-| - [ ] hi      | - [ ] yeet    |
