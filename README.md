@@ -18,13 +18,13 @@ Github Repository for CPE-322 at Stevens Institute of Technology
 - [x] Lesson 10
 # **Exercises**
 - [x] Exercise 1
-- [ ] Exercise 2
+- [x] Exercise 2
 - [ ] Exercise 3
 - [ ] Exercise 4
-- [ ] Exercise 5
+- [x] Exercise 5
 - [ ] Exercise 6
 - [ ] Exercise 7
-- [ ] Exercise 8
-- [ ] Exercise 9
+- [x] Exercise 8
+- [x] Exercise 9
 - [ ] Exercise 10
-- [ ] Exercise 11
+- [x] Exercise 11
