@@ -31,7 +31,6 @@ Github Repository for CPE-322 at Stevens Institute of Technology
 - [x] Exercise 11
 
 # *IoT Lessons Tips and Tricks*
-| Syntax | Description |
+| Lesson Number | Tips and Tricks |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 4 | In order to make the Google Maps API call to fuction Properly you need to enable billing on your google account |
