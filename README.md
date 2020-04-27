@@ -34,4 +34,4 @@ Github Repository for CPE-322 at Stevens Institute of Technology
 | Lesson Number | Tips and Tricks |
 | ----------- | ----------- |
 | 4 | In order to make the Google Maps API call to fuction Properly you need to enable billing on your google account |
-| 6 | Node.js is not installed by default therefore 'sudo apt install nodejs' to install it | 
+| 6 | Node.js is not installed by default therefore 'sudo apt install nodejs' to install it' | 
