@@ -20,14 +20,14 @@ Github Repository for CPE-322 at Stevens Institute of Technology
 - [x] Exercise 0
 - [x] Exercise 1
 - [x] Exercise 2
-- [ ] Exercise 3
-- [ ] Exercise 4
+- [x] Exercise 3
+- [x] Exercise 4
 - [x] Exercise 5
-- [ ] Exercise 6
-- [ ] Exercise 7
+- [x] Exercise 6
+- [x] Exercise 7
 - [x] Exercise 8
 - [x] Exercise 9
-- [ ] Exercise 10
+- [x] Exercise 10
 - [x] Exercise 11
 
 # *IoT Lessons Tips and Tricks*
