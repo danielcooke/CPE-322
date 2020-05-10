@@ -1,5 +1,5 @@
 # **CPE-322**
-Github Repository for CPE-322 at Stevens Institute of Technology
+GitHub Repository for CPE-322 at Stevens Institute of Technology
 
 [Link to my Google Site](https://sites.google.com/stevens.edu/dancookecpe-322)
 
@@ -31,5 +31,5 @@ Github Repository for CPE-322 at Stevens Institute of Technology
 # *IoT Lessons Tips and Tricks*
 | Lesson Number | Tips and Tricks |
 | ----------- | ----------- |
-| 4 | In order to make the Google Maps API call to fuction Properly you need to enable billing on your google account. Additonally after completing each project I found that removing the prevously used data bases and users helped with confusion on creating new ones. |
-| 6 | Node.js is not installed by default therefore using the following line to install it: sudo apt install nodejs |
+| 4 | In order to make the Google Maps API call to fuction Properly, you need to enable billing on your Google account. Additonally after completing each project I found, that removing the prevously used data bases and users helped with confusion on creating new ones. |
+| 6 | If Node.js is not installed by default use the following line to install it: sudo apt install nodejs. Please note that Node.js is installed with NOOBS however if you only installed base Raspbian you will need to install it seperately |
